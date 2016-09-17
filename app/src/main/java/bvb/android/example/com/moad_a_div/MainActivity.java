@@ -6,6 +6,7 @@ import android.util.Log;
 
 public class MainActivity extends AppCompatActivity {
     String LOG_CAT=MainActivity.class.getSimpleName();
+    //test line from my cabin pc for gitHub
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
